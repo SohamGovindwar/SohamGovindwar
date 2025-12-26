@@ -29,86 +29,121 @@
 ## 🧠 Engineering Philosophy
 
 I’m a **Full-Stack Developer with a DevOps mindset** from 🇮🇳  
-I don’t just build features — I design **systems that scale, deploy, and last**.
+I focus on building **clean, scalable systems** — not just features.
 
-I care deeply about:
-- Clean architecture over quick hacks  
-- Automation over repetition  
-- Performance, reliability & clarity  
-- Building things that **actually get used**
+- Automation > repetition  
+- Architecture > hacks  
+- Performance, reliability & clarity matter  
+- AI as a multiplier, not a shortcut  
 
-💼 **Currently seeking full-time roles** where I can grow fast and contribute meaningfully.
+💼 **Actively seeking full-time opportunities**.
 
 ---
 
-## 🧰 Technology I Trust
+## 🧰 Technology I Work With (Production-Level)
 
-### 🎨 Frontend Craft
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap" />
 
-### ⚙️ Backend Systems
+**Concepts & Practices**
+- Responsive UI design
+- Component-driven architecture
+- Web accessibility (A11y)
+- Performance optimization
+- Reusable UI libraries (shadcn/ui, lucide-react)
+
+---
+
+### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,githubactions,vercel,firebase" />
-
-### 🗄️ Data Layer
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+**Concepts & Practices**
+- RESTful API design
+- Microservices architecture
+- JWT-based authentication
+- Secure backend routing
+- Object-Oriented Programming (OOP)
+- Design patterns & clean code
 
 ---
 
-## 🚀 Selected Work (What I’m Proud Of)
+### 🗄️ Databases & Data Handling
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+**Experience With**
+- MongoDB (GridFS, aggregations)
+- MySQL (relational data modeling)
+- Firestore (real-time sync)
+- Supabase
+- Data validation & indexing strategies
+
+---
+
+### ☁️ Cloud, DevOps & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,githubactions,vercel,netlify,firebase" />
+
+**Practices**
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Containerization with Docker
+- Infrastructure automation using Ansible
+- Serverless deployments on AWS
+- Firebase Auth, Firestore & Storage
+- Zero-downtime deployments
+
+---
+
+### 🛠️ Tools, Testing & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest" />
+
+**Workflow & Engineering**
+- Git-based collaboration
+- API testing with Postman
+- Unit & component testing (Jest, React Testing Library)
+- Debugging with Chrome DevTools
+- Agile / Scrum methodology
+- Code reviews & performance tuning
+
+---
+
+## 🚀 Selected Work
 
 ### 🏫 Internskool — Internship Management Platform  
 **React.js • Firebase • Firestore • CI/CD**
 
-A real-world platform built to manage the **entire internship lifecycle**.
-
-**Why it matters:**
-- Used to manage **500+ internship records**
-- Clear separation of Admin & Student workflows
+- Managed **500+ internship records**
+- Role-based dashboards (Admin / Student)
 - Real-time progress tracking
-- Secure authentication & file handling
-- Automated deployments with zero downtime
-
-> Built with scalability and non-technical users in mind.
+- Secure file uploads & verification
+- Automated CI/CD with zero downtime
 
 ---
 
 ### 📊 SaaS Analytics Platform  
-**Next.js • Node.js • AWS (Serverless)**
+**Next.js • Node.js • AWS**
 
-A performance-focused analytics system.
-
-**Engineering focus:**
-- Real-time dashboards
-- Optimized APIs → **40% faster responses**
-- Serverless architecture → **20% cost reduction**
-- Clean data flow & observability
+- Real-time analytics dashboards
+- Optimized APIs (**40% faster**)
+- Serverless backend
+- Reduced cloud costs by **20%**
 
 ---
 
 ### 📝 CMS Blog & Publishing Platform  
 **React • Node.js • Firebase**
 
-A full-featured CMS designed for content teams.
-
-**Key strengths:**
-- Admin-controlled publishing workflow
-- Role-based access
-- Secure backend routes
-- CI/CD-driven deployments
+- Admin-controlled content workflows
+- JWT-secured backend
+- Real-time updates
+- DevOps-driven deployments
 
 ---
 
-## 🤖 AI + Systems Thinking
+## 🤖 AI + Systems Curiosity
 
-I’m actively exploring how **AI augments engineering**, especially in:
-- Developer productivity
+Currently exploring:
+- AI-assisted developer tooling
 - Intelligent automation
-- Scalable backend systems for AI products
-
-I believe AI is most powerful when paired with **strong system design**.
+- Scalable backends for AI-powered products
 
 ---
 
@@ -117,9 +152,9 @@ I believe AI is most powerful when paired with **strong system design**.
 - Full-Stack / Frontend roles  
 - DevOps & cloud-oriented teams  
 - Engineering-first culture  
-- Challenging problems & learning curves  
+- Real impact & growth  
 
-📩 If you’re building something meaningful — **let’s talk.**
+📩 If you’re hiring — **let’s connect**.
 
 ---
 
@@ -129,4 +164,4 @@ I believe AI is most powerful when paired with **strong system design**.
 
 ---
 
-⭐ *“Good code works. Great code scales. Exceptional code lasts.”*
+⭐ *“Write code like someone else will maintain it — because they will.”*
