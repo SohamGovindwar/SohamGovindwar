@@ -1,20 +1,20 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" />
 
-<h1 align="center">👋 Hi, I'm Soham Govindwar</h1>
+<h1 align="center">Soham Govindwar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;DevOps+Engineer+%7C+Cloud+Native;AI-Curious+Problem+Solver;Open+to+Full-Time+Opportunities;I+Build+Systems+That+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DevOps+Engineer;Cloud-Native+Builder;AI-Curious+Engineer;Open+to+Full-Time+Opportunities" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sohamgovindwar&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Looking%20For%20a%20Job-brightgreen" />
-  <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Onsite%20%7C%20Hybrid-blue" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Impact%20%7C%20Scale%20%7C%20Quality-blue" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/soham-govindwar">
-    <img src="https://img.shields.io/badge/LinkedIn-Soham%20Govindwar-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:govindwarsoham@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail"/>
@@ -26,124 +26,107 @@
 
 ---
 
-## 🧠 About Me (Human, Not Resume)
+## 🧠 Engineering Philosophy
 
 I’m a **Full-Stack Developer with a DevOps mindset** from 🇮🇳  
-I enjoy designing **end-to-end systems** — UI → API → Cloud → CI/CD.
+I don’t just build features — I design **systems that scale, deploy, and last**.
 
-- 🚀 Built apps used by **10,000+ users**
-- ⚙️ Reduced deployment time by **85%** using automation
-- 📈 Optimized APIs by **40%**
-- 🧠 Curious about **AI-powered systems & developer productivity**
-- 💼 **Actively looking for full-time roles**
+I care deeply about:
+- Clean architecture over quick hacks  
+- Automation over repetition  
+- Performance, reliability & clarity  
+- Building things that **actually get used**
 
-I don’t chase frameworks — I chase **engineering clarity**.
+💼 **Currently seeking full-time roles** where I can grow fast and contribute meaningfully.
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Technology I Trust
 
-### 🎨 Frontend
+### 🎨 Frontend Craft
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
-### ⚙️ Backend
+### ⚙️ Backend Systems
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,githubactions,vercel,firebase" />
 
-### 🗄️ Databases
+### 🗄️ Data Layer
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
 ---
 
-## 🚀 Featured Projects (Real Engineering)
+## 🚀 Selected Work (What I’m Proud Of)
 
-### 🏫 Internskool — Internship Management Platform
-**React.js • Firebase • Firestore • Vercel**
+### 🏫 Internskool — Internship Management Platform  
+**React.js • Firebase • Firestore • CI/CD**
 
-A production-grade platform to manage the complete internship lifecycle.
+A real-world platform built to manage the **entire internship lifecycle**.
 
-**What makes it solid:**
-- Role-based dashboards (Admin / Student)
-- Secure Firebase Authentication
+**Why it matters:**
+- Used to manage **500+ internship records**
+- Clear separation of Admin & Student workflows
 - Real-time progress tracking
-- File uploads & document verification
-- CI/CD with zero-downtime deployments
+- Secure authentication & file handling
+- Automated deployments with zero downtime
 
-📊 **Handled 500+ internship records**
+> Built with scalability and non-technical users in mind.
 
 ---
 
-### 📊 Full-Stack SaaS Analytics Platform
-**Next.js • Node.js • AWS**
+### 📊 SaaS Analytics Platform  
+**Next.js • Node.js • AWS (Serverless)**
 
-Designed for scalability and performance.
+A performance-focused analytics system.
 
-**Engineering highlights:**
+**Engineering focus:**
 - Real-time dashboards
-- Serverless AWS backend
-- Optimized APIs → **40% faster**
-- Cloud cost optimized by **20%**
+- Optimized APIs → **40% faster responses**
+- Serverless architecture → **20% cost reduction**
+- Clean data flow & observability
 
 ---
 
-### 📝 CMS Blog & Publishing Platform
+### 📝 CMS Blog & Publishing Platform  
 **React • Node.js • Firebase**
 
-A secure and scalable content management system.
+A full-featured CMS designed for content teams.
 
-**Features:**
-- Admin panel with role management
-- JWT-secured backend
-- Real-time content sync
-- Automated deployments
+**Key strengths:**
+- Admin-controlled publishing workflow
+- Role-based access
+- Secure backend routes
+- CI/CD-driven deployments
 
 ---
 
-## 🤖 AI + Engineering Curiosity
+## 🤖 AI + Systems Thinking
 
-I actively explore:
-- AI-assisted developer workflows
+I’m actively exploring how **AI augments engineering**, especially in:
+- Developer productivity
 - Intelligent automation
 - Scalable backend systems for AI products
-- Clean APIs for ML / data-driven apps
 
-> I see AI as a **multiplier**, not a replacement.
-
----
-
-## 📈 GitHub Activity & Momentum
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamgovindwar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamgovindwar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamgovindwar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Flow
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+I believe AI is most powerful when paired with **strong system design**.
 
 ---
 
 ## 🎯 What I’m Looking For
 
-- ✅ Frontend / Full-Stack Developer roles  
-- ✅ DevOps / Cloud-focused teams  
-- ✅ Product-driven engineering culture  
-- ✅ Learning + impact  
+- Full-Stack / Frontend roles  
+- DevOps & cloud-oriented teams  
+- Engineering-first culture  
+- Challenging problems & learning curves  
 
-📩 **If you’re hiring — I’m ready.**
+📩 If you’re building something meaningful — **let’s talk.**
 
 ---
 
-⭐ *“I don’t just write code. I design systems that grow.”*
+## 🐍 Consistency Over Time
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ *“Good code works. Great code scales. Exceptional code lasts.”*
