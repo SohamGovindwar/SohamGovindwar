@@ -1,115 +1,87 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" />
 
-<h1 align="center">Hi 👋, I'm Soham Govindwar</h1>
-<h3 align="center">Full-Stack Developer | DevOps Engineer | Cloud-Native Builder</h3>
+<h1 align="center">Hey 👋 I'm Soham Govindwar</h1>
+<h3 align="center">⚡ Building Scalable Web Apps • Cloud Systems • Developer Experiences</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohamgovindwar&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/sohamgovindwar?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/sohamgovindwar?label=Stars&style=flat&color=yellow" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/soham-govindwar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:govindwarsoham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SohamGovindwar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamgovindwar&label=Profile%20Views&color=0e75b6&style=flat" />
+---
+
+## 🌱 Who Am I?
+
+I’m a **Full-Stack Developer with a DevOps mindset** from 🇮🇳  
+I enjoy turning **ideas into production-ready systems** — clean UI, solid backend, smooth deployments.
+
+- 🧠 Think in systems, not just features  
+- 🚀 Love performance, automation & scalability  
+- 🛠️ Strong believer in *clean code & shipping fast*  
+- 🔁 Constantly learning & improving
+
+---
+
+## 🧰 My Developer Toolbox
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,githubactions,vercel,firebase" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ Things I’ve Built (Highlights)
 
-I’m a **results-driven Full-Stack Developer and DevOps Engineer** from **Pune, India**, with hands-on experience building **scalable, production-grade web applications**.
+🚀 **Internskool**  
+A role-based internship platform with real-time tracking, authentication & file uploads.
 
-- 🔹 Built and maintained applications used by **10,000+ users**
-- 🔹 Improved API performance by **25–40%**
-- 🔹 Reduced deployment time by **85%** using automation
-- 🔹 Strong in **React, Next.js, Spring Boot, Node.js, AWS & CI/CD**
+📊 **SaaS Analytics Platform**  
+Live dashboards, optimized APIs & serverless architecture.
 
-I enjoy building **clean architectures**, optimizing performance, and shipping features that solve real business problems.
+📝 **CMS Blog System**  
+Admin-controlled publishing platform with secure backend routes.
 
----
-
-## 🧑‍💻 Tech Stack
-
-### Frontend
-- React.js, Next.js, Redux, TypeScript
-- Tailwind CSS, shadcn/ui, Bootstrap
-- Responsive UI, Accessibility (A11y)
-
-### Backend
-- Node.js, Express.js
-- Spring Boot, REST APIs, Microservices
-- Python, Java
-
-### Database & Cloud
-- MongoDB, MySQL, Firestore, Supabase
-- Firebase (Auth, Firestore, Storage)
-- AWS (Serverless, Hosting)
-
-### DevOps & Tools
-- Docker, Ansible, Jenkins
-- GitHub Actions, CI/CD Pipelines
-- Netlify, Vercel
-- Git, Postman, Jest
+> I focus on **real-world usefulness**, not toy projects.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Internskool – Internship Management Platform
-**React.js · Firebase · Firestore**
-- Managed **500+ internship records**
-- Role-based dashboards for admins & students
-- Real-time progress tracking & file uploads
-- CI/CD on Vercel with zero-downtime deployments
-
-### 🔹 Full-Stack SaaS Analytics Platform
-**Next.js · Node.js · AWS**
-- Real-time analytics dashboards for **1,000+ users**
-- Serverless backend reducing costs by **20%**
-- APIs optimized for **40% faster data retrieval**
-
-### 🔹 CMS Blog Platform
-**React · Node.js · Firebase**
-- Admin-controlled CMS with roles & permissions
-- JWT-secured backend routes
-- Automated deployments using DevOps best practices
-
----
-
-## 🏢 Experience
-
-### **Full-Stack Web Developer — WebTeam Pvt. Ltd.**
-- Built scalable apps using **Spring Boot, React, Next.js**
-- Designed REST APIs with MongoDB
-- Created reusable UI components (**30% faster delivery**)
-- Automated deployments with Ansible
-- Collaborated in Agile/Scrum teams
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **B.Tech in Computer Science & Engineering**  
-MGM College of Engineering — CGPA: **7.8/10**
-
-📜 Certifications:
-- Walmart USA Advanced Software Engineering (Forage)
-- AWS APAC Solutions Architecture (Forage)
-- Career Essentials in Generative AI (Microsoft)
-- DevOps Engineer Certification – Simplilearn
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub in Motion
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamgovindwar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamgovindwar&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -118,9 +90,23 @@ MGM College of Engineering — CGPA: **7.8/10**
 
 ---
 
-## 🤝 Let’s Connect
+## 🧭 What I’m Exploring Now
+- 🔹 Advanced React & scalable frontend patterns  
+- 🔹 Cloud-native backend systems  
+- 🔹 DevOps automation & CI/CD optimizations  
+- 🔹 Better developer experience (DX)
 
-📩 **Email:** govindwarsoham@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/soham-govindwar  
+---
 
-⭐ *Always open to collaborations, open-source contributions, and exciting engineering challenges.*
+## 🤝 Let’s Build Something Cool
+
+If you’re into:
+- Building meaningful products  
+- Clean engineering  
+- Startups / SaaS / Open-Source  
+
+📩 **Reach out — I’m always open to conversations.**
+
+---
+
+⭐ *“Code is not just written to work — it’s written to last.”*
