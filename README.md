@@ -1,283 +1,167 @@
-<div align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" />
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=200&section=header&text=Soham%20Govindwar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20DevOps%20%7C%20Cloud-Native%20Engineer&descAlignY=60&descSize=18"/>
+<h1 align="center">Soham Govindwar</h1>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=⚡+Full-Stack+Developer+%7C+React+%26+Next.js;☁️+Cloud-Native+Builder+%7C+AWS+%26+Docker;🔧+DevOps+Engineer+%7C+CI%2FCD+%7C+Ansible;🤖+AI-Curious+Engineer+%7C+Builder+at+Heart;🚀+Open+to+Full-Time+Opportunities" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views + Status Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sohamgovindwar&label=Profile+Views&color=6e40c9&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-🟢 Open%20to%20Work-00c853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Impact%20%7C%20Scale%20%7C%20Quality-00d4ff?style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DevOps+Engineer;Cloud-Native+Builder;AI-Curious+Engineer;Open+to+Full-Time+Opportunities" />
 </p>
 
-<!-- Social Links -->
-<p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohamgovindwar&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Impact%20%7C%20Scale%20%7C%20Quality-blue" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/soham-govindwar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:govindwarsoham@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/SohamGovindwar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://sohamgovindwar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-</div>
-
 ---
-
-<!-- About Me -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 ## 🧠 Engineering Philosophy
 
-I'm a **Full-Stack Developer with a DevOps mindset** from 🇮🇳  
+I’m a **Full-Stack Developer with a DevOps mindset** from 🇮🇳  
 I focus on building **clean, scalable systems** — not just features.
 
-```yaml
-name: Soham Govindwar
-role: Full-Stack + DevOps Engineer
-location: India 🇮🇳
-available: true
-philosophy:
-  - Automation > Repetition
-  - Architecture > Hacks
-  - Performance + Reliability + Clarity
-  - AI as a Multiplier, not a Shortcut
-```
+- Automation > repetition  
+- Architecture > hacks  
+- Performance, reliability & clarity matter  
+- AI as a multiplier, not a shortcut  
 
-<br clear="right"/>
+💼 **Actively seeking full-time opportunities**.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohamGovindwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGovindwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamGovindwar&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=00d4ff&fire=ff6e40&currStreakLabel=00d4ff" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## 🧰 Technology I Work With (Production-Level)
 
 ### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap" />
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-> Responsive UI · Component Architecture · Web Accessibility (A11y) · Performance Optimization · shadcn/ui · Lucide React
+**Concepts & Practices**
+- Responsive UI design
+- Component-driven architecture
+- Web accessibility (A11y)
+- Performance optimization
+- Reusable UI libraries (shadcn/ui, lucide-react)
 
 ---
 
 ### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
 
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-> RESTful APIs · Microservices · JWT Auth · Secure Routing · OOP · Design Patterns · Clean Code
+**Concepts & Practices**
+- RESTful API design
+- Microservices architecture
+- JWT-based authentication
+- Secure backend routing
+- Object-Oriented Programming (OOP)
+- Design patterns & clean code
 
 ---
 
-### 🗄️ Databases & Data
+### 🗄️ Databases & Data Handling
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-> MongoDB GridFS & Aggregations · Relational Modeling · Firestore Real-Time Sync · Data Validation & Indexing
+**Experience With**
+- MongoDB (GridFS, aggregations)
+- MySQL (relational data modeling)
+- Firestore (real-time sync)
+- Supabase
+- Data validation & indexing strategies
 
 ---
 
 ### ☁️ Cloud, DevOps & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,githubactions,vercel,netlify,firebase" />
 
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-> CI/CD Pipelines · Docker Containerization · Ansible Infrastructure Automation · Serverless AWS · Zero-Downtime Deployments
+**Practices**
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Containerization with Docker
+- Infrastructure automation using Ansible
+- Serverless deployments on AWS
+- Firebase Auth, Firestore & Storage
+- Zero-downtime deployments
 
 ---
 
-### 🔧 Tools, Testing & Workflow
+### 🛠️ Tools, Testing & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest" />
 
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-> Git Collaboration · API Testing · Unit & Component Testing · Chrome DevTools · Agile/Scrum · Code Reviews
+**Workflow & Engineering**
+- Git-based collaboration
+- API testing with Postman
+- Unit & component testing (Jest, React Testing Library)
+- Debugging with Chrome DevTools
+- Agile / Scrum methodology
+- Code reviews & performance tuning
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Work
 
-<div align="center">
+### 🏫 Internskool — Internship Management Platform  
+**React.js • Firebase • Firestore • CI/CD**
 
-| 🏫 Internskool | 📊 SaaS Analytics | 📝 CMS Platform |
-|:-:|:-:|:-:|
-| Internship Management Platform | Real-Time Analytics Dashboard | Blog & Publishing System |
-| React · Firebase · Firestore · CI/CD | Next.js · Node.js · AWS | React · Node.js · Firebase |
-| 500+ records managed | **40% faster** APIs | Admin-controlled workflows |
-| Role-based dashboards | **20% cloud cost reduction** | JWT-secured backend |
-| Real-time tracking | Serverless architecture | DevOps deployments |
-
-</div>
+- Managed **500+ internship records**
+- Role-based dashboards (Admin / Student)
+- Real-time progress tracking
+- Secure file uploads & verification
+- Automated CI/CD with zero downtime
 
 ---
 
-### 🏫 Internskool — Internship Management Platform
+### 📊 SaaS Analytics Platform  
+**Next.js • Node.js • AWS**
 
-```
-Tech: React.js • Firebase • Firestore • CI/CD Pipeline
-```
-
-- 🗂️ Managed **500+ internship records** with optimized queries
-- 👥 Role-based dashboards (Admin / Student views)
-- 📡 Real-time progress tracking with Firestore listeners
-- 🔐 Secure file uploads, verification workflows
-- 🚀 Automated CI/CD with **zero-downtime deploys**
+- Real-time analytics dashboards
+- Optimized APIs (**40% faster**)
+- Serverless backend
+- Reduced cloud costs by **20%**
 
 ---
 
-### 📊 SaaS Analytics Platform
+### 📝 CMS Blog & Publishing Platform  
+**React • Node.js • Firebase**
 
-```
-Tech: Next.js • Node.js • AWS • Serverless
-```
-
-- 📈 Real-time analytics dashboards with live data feeds
-- ⚡ API response optimization — **40% latency reduction**
-- ☁️ Serverless backend scaling on AWS
-- 💰 Cloud infrastructure tuning — **20% cost reduction**
+- Admin-controlled content workflows
+- JWT-secured backend
+- Real-time updates
+- DevOps-driven deployments
 
 ---
 
-### 📝 CMS Blog & Publishing Platform
+## 🤖 AI + Systems Curiosity
 
-```
-Tech: React • Node.js • Firebase • JWT
-```
-
-- ✍️ Admin-controlled content workflows & publishing
-- 🔑 JWT-secured backend with role guards
-- 🔄 Real-time content updates via Firebase
-- 🛠️ Full DevOps-driven deployment pipeline
+Currently exploring:
+- AI-assisted developer tooling
+- Intelligent automation
+- Scalable backends for AI-powered products
 
 ---
 
-## 🤖 Currently Exploring
+## 🎯 What I’m Looking For
 
-<div align="center">
+- Full-Stack / Frontend roles  
+- DevOps & cloud-oriented teams  
+- Engineering-first culture  
+- Real impact & growth  
 
-```
-🧠 AI-Assisted Developer Tooling     →   Building smarter dev workflows
-⚙️  Intelligent Automation            →   Reducing repetition at scale
-🔗 Scalable AI Backend Architecture  →   LLM-ready infra patterns
-🐳 Container Orchestration            →   Kubernetes & beyond
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamGovindwar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff" />
-</div>
+📩 If you’re hiring — **let’s connect**.
 
 ---
 
 ## 🐍 Consistency Over Time
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎯 What I'm Looking For
-
-<div align="center">
-
-| Role | Culture | Impact |
-|:----:|:-------:|:------:|
-| Full-Stack / Frontend | Engineering-first | Real product impact |
-| DevOps & Cloud | Growth-oriented | Scalable systems |
-| Backend / Platform | Collaborative | Greenfield challenges |
-
-📩 **If you're hiring — let's connect!**
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6e40c9,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-<br/>
-
-⭐ *"Write code like someone else will maintain it — because they will."*
-
-<br/>
-
-**Made with ❤️ by Soham Govindwar**
-
-</div>
+⭐ *“Write code like someone else will maintain it — because they will.”*
